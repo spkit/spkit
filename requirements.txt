@@ -1,6 +1,5 @@
 numpy==1.26.4
 pandas
-spkit
 scipy
 scikit-learn
 python-picard
@@ -11,3 +10,5 @@ keras
 pylfsr
 PyWavelets
 cvxpy
+pyedflib
+spkit
