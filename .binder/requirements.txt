@@ -11,3 +11,5 @@ seaborn
 joblib
 phyaat
 spkit
+cvxpy
+pyedflib
