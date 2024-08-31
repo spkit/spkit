@@ -11,3 +11,4 @@ seaborn
 joblib
 phyaat
 spkit
+mne
